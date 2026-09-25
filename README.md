@@ -58,7 +58,7 @@ Opened the Networkwalks Hash Calculator (`networkwalks.com/hash-calculator`) and
 
 **Extracted hash:**
 ```
-[$pdf$4*4*128*-1028*1*16*0853f2cde0ef15b1c0f93ed229d3b1ad*32*8f13ce5aa39ad974364d36a057da76790021446990b9e4114071a4d9104984c1*32*ceecdac74b19b5a62688d3b3524e1374c955cbb9cc3c45316494d9446ef81af1]
+$pdf$4*4*128*-1028*1*16*0853f2cde0ef15b1c0f93ed229d3b1ad*32*8f13ce5aa39ad974364d36a057da76790021446990b9e4114071a4d9104984c1*32*ceecdac74b19b5a62688d3b3524e1374c955cbb9cc3c45316494d9446ef81af1
 ```
 
 ![Hash Calculator output](evidences/02_hash_extracted.png)
@@ -70,7 +70,7 @@ Opened the Networkwalks Password Cracker (`networkwalks.com/password-cracker`), 
 
 **Cracked password:**
 ```
-[1qaz2wsx]
+1qaz2wsx
 ```
 
 **Time taken:** [insert approx. time, e.g. "under 2 minutes" — note in your findings whether this reflects a weak/common password]
