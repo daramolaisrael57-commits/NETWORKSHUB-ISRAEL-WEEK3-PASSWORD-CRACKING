@@ -132,6 +132,6 @@ All screenshots referenced above are stored in the [`/evidence`](./evidences) fo
 
 **Author:** Daramola Israel Ayomikun
 **Role:** Cybersecurity Intern, B083 – Networkwalks
-**LinkedIn:** [linkedin.com/in/your-profile](https://lnkd.in/p/e-FXQAiQ)
+**LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/posts/israel-daramola-6450723a2_networkshubsummerinternship-activity-7509189661550911488-S4ar?utm_source=share&utm_medium=member_android&rcm=ACoAAGKb6BUBbPhEntEhV_FjFiCbSiUx18DTmQU)
 
 **Program:** Cybersecurity Internship at Networkwalks | Week 03
