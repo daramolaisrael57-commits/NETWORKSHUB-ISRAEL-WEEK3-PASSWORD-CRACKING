@@ -2,7 +2,7 @@
 
 **Pentester:** Daramola Israel Ayomikun
 **Program/Batch:** B082 – Networkwalks
-**Date:** [insert date]
+**Date:** 25 September 2026
 **Module Completed:** W3-PM2 (Password Cracking with Networkwalks Tools)
 **Phase Covered:** Phase 3 — Gaining Access (Password/Credential Attacks)
 
